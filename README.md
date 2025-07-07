@@ -31,10 +31,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### 📸 Screenshots
-
-*(Include one or two images of the chat interface if available)*
-
 ### 🚀 How It Works
 
 The chatbot takes user input through a simple web UI, processes the text using NLP, and responds with relevant health advice based on keyword matching and predefined logic.
@@ -49,10 +45,3 @@ The chatbot takes user input through a simple web UI, processes the text using N
 
 Pull requests are welcome. Feel free to fork the repo and submit improvements!
 
-### 📧 Contact
-
-Created by [Vivek Korti](https://github.com/vivek-korti) — feel free to reach out via [LinkedIn](https://linkedin.com/in/vivek-korti)
-
----
-
-Let me know if you'd like to add API usage, chatbot flow diagrams, or deployment instructions (like on Heroku or Render).
